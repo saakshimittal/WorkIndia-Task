@@ -29,8 +29,8 @@ if(isset($_POST['submit'])){
       <input type="text" name="username" id="username"><br>
       <label for="password">Password: </label>
       <input type="password" name="password" id="password"><br>
-      <button type="submit" name="submit" id='submit'>Login</button>
+      <button type="submit" name="submit" id='submit'>Sign Up</button>
     </form>
-    <a href="index.php">Or Sign Up here</a>
+    <a href="index.php">Or Log In here</a>
   </body>
 </html>
